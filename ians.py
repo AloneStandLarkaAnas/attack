@@ -70,7 +70,7 @@ def ascii_art_ians():
     
 def ascii_art_warning():
     console.print("═" * 121, style="bold red")
-    console.print("═" * 38 + " https://github.com/giovanni-iannaccone/ians " + "═" * 38, style="bold red")
+    console.print("═" * 38 + " https://github.com/AloneStandLarkaAnas/attack.git " + "═" * 38, style="bold red")
     console.print("═" * 121, style="bold red")
 
     banner = """ 
